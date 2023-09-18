@@ -1,0 +1,123 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bacground{
+    background: rgb(232, 255, 245);
+    width: 100%;
+    height: 550px;
+}
+header{
+    width: 100%;
+}
+.E-School-nav{
+    display: flex;
+    justify-content: space-between;
+}
+.E-School-Logo{
+    list-style-type: none;
+    margin-left: 180px;
+    margin-top: 30px;
+}
+#logo{
+    width: 180px;
+}
+.E-School-list{
+    margin-right: 150px;
+    display: flex;
+    list-style-type: none;
+}
+.nav-list{
+    margin-top: 30px;
+    margin-left: 20px;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+}
+.learn-div-container{
+    display: flex;
+}
+.learn-title{
+    width: 100%;
+    margin-top: 100px;
+    text-align: left;
+}
+.learn-listContainer{
+    margin-left: 100px;
+}
+#you-ready{
+    color: orange;
+    font-size: 17px;
+}
+#head-1{
+    font-size: 40px;
+    font-weight: 700;
+    width: 300px;
+}
+.head-line-3{
+    display: flex;
+}
+#head-2{
+    font-size: 40px;
+    font-weight: 700;
+    color: rgb(0, 188, 0);
+}
+#head-3{
+    font-size: 40px;
+    font-weight: 700;
+    width: 60px;
+}
+#head-p{
+    text-align: left;
+    width: 385px;
+    margin-top: 20px;
+    font-size: 14px;
+}
+.get-start-div{
+    width: 150px;
+}
+.get-start{
+    font-size: 18px;
+    padding: 8px;
+    text-align: center;
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    background: rgb(0, 188, 0);
+    color: white;
+    margin-top: 40px;
+}
+.learn-image{
+    width: 100%;
+}
+#learn-img{
+    width: 75%;
+    margin-top: 100px;
+}
+.card-container{
+    display: flex;
+    margin-left: 120px;
+    margin-top: 30px;
+}
+.card-list{
+    background: rgb(246, 255, 251);
+    width: 230px;
+    border-radius: 8px;
+    height: 230px;
+}
+#card-img-1{
+    align-items: center;
+    margin-left: 35%;
+    margin-top: 40px;
+}
+#card-heading{
+    margin-top: 30px;
+    font-size: 22px;
+    font-weight: 600;
+    text-align: center;
+}
+#card-heading-p{
+    font-size: 15px;
+    text-align: center;
+}
